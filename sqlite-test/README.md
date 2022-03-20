@@ -1,0 +1,1 @@
+SQLite and permission request example

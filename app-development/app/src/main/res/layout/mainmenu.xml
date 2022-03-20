@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:id="@+id/button_container"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/webview_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Webview"/>
+
+        <Button
+            android:id="@+id/custom_http_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Custom HTTP"/>
+
+        <Button
+            android:id="@+id/weather_service_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Weather Service"/>
+
+        <Button
+            android:id="@+id/batery_monitor_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Battery Monitor"/>
+
+        <Button
+            android:id="@+id/preferences_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Our Preferences Activity"/>
+
+        <Button
+            android:id="@+id/save_internal_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save Internal File"/>
+
+        <Button
+            android:id="@+id/read_internal_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Read Internal File"/>
+
+        <Button
+            android:id="@+id/telephony_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Telephony Button"/>
+
+        <Button
+            android:id="@+id/sensor_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sensors"/>
+
+        <Button
+            android:id="@+id/audio_button_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Audio"/>
+
+        <Button
+            android:id="@+id/video_button_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Video"/>
+
+        <Button
+            android:id="@+id/photo_button_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Camera"/>
+
+        <Button
+            android:id="@+id/location_button_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Location"/>
+
+
+    </LinearLayout>
+</ScrollView>

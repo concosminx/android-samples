@@ -1,0 +1,1 @@
+Google Maps API - Example (needs Google Maps API KEY in manifest file)

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Development</string>
+    <string name="hello_world">Hello World, Main Activity!</string>
+    <string name="next_activity">Next Activity</string>
+    <string name="generic_error">Oh no! Error here</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>

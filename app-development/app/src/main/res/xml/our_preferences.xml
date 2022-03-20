@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Widget Settings">
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="show_city"
+            android:title="Show city"
+            android:summaryOn="This is our summary on String"
+            android:summaryOff="This is our summary off String"/>
+
+        <EditTextPreference
+            android:defaultValue="Default value"
+            android:key="city"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="City"
+            android:summary="This is the city preference"/>
+
+
+    </PreferenceCategory>
+</PreferenceScreen>

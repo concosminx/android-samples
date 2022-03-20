@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dezvoltare Aplicatie</string>
+    <string name="hello_world">Salut, Activitate Principala!</string>
+    <string name="next_activity">Urmatoarea activitate</string>
+    <string name="generic_error">Aoleu! Eroare bah!</string>
+</resources>
